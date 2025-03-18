@@ -54,8 +54,6 @@ Deneysel çalışmalar sonucunda:
 - **En İyi Model Seçimi:** %90 doğruluk gibi kriterler göz önünde bulundurularak, eğitim adım sayısı ve kayıp değeri bazında en iyi model belirlenmiştir.
 - **Karmaşıklık Matrisi ve Diğer Metrikler:** Tüm modeller için confusion matrix, accuracy, precision, recall ve F1-score hesaplanmıştır.
 
-Detaylı deney sonuçları ve karşılaştırmalar, rapor dosyası (opsiyonel: `rapor.pdf`) içerisinde sunulabilir.
-
 ## 4. Tartışma
 Çalışma, model mimarisi ve aktivasyon fonksiyonu seçimlerinin sınıflandırma performansı üzerinde belirgin etkileri olduğunu göstermiştir:
 - **2-Layer Model:** Daha basit yapısı sayesinde daha hızlı eğitim süresi ve düşük eğitim adım sayısı ile tercih edilebilir. Ancak karmaşık veri yapılarında performans sınırlamaları görülebilir.
